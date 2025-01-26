@@ -2,3 +2,21 @@
   text-align: center;
 }
 
+.input input{
+  padding: 8px ;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.list-name{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.name{
+  list-style: circle;
+  font-size: 18px;
+}
